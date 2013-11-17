@@ -7,6 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	test
+		1aaaaaaa
 	return 0;
 }
 
